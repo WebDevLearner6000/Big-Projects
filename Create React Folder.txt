@@ -1,0 +1,25 @@
+How to create a React Folder:
+
+write on terminal (npm create vite@latest), 
+
+then you can name the folder whatever you want, 
+
+select the framework to React, 
+
+select the variant to JavaScript or TypeScript,
+
+then write cd (name of the folder),
+
+then write (npm install),
+
+then write (npm run dev),
+
+now you can copy the URL to google.
+
+____________________________________________________________________________________________________________________________________________
+
+if you want to restart the server follow these steps:
+
+open terminal then write (cd (name of the folder)),
+
+then (npm run dev).
